@@ -18,9 +18,10 @@ Git | GitHub | VS Code | Jupyter Notebook
 
 ## 📊 Estadísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qgrodrigo&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgrodrigo&layout=compact&theme=tokyonight" />
+</p>
 
 ## 📫 Contacto
 
