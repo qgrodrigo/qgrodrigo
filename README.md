@@ -1,17 +1,19 @@
-# ¡Hola! 👋 Soy Rodrigo Quispe Gil
-
+# ¡Hola! :) Soy Rodrigo,
 Estudiante de ingeniería de Sistemas (8.º ciclo)
 
-## 🚀 Tecnologías
+##  Stack
 
 ### Lenguajes
-Python | SQL | JavaScript
+Python | SQL | JavaScript | Java
+
+### Software
+Springboot | Spring security | FastAPI 
 
 ### Data Analytics
 Pandas | NumPy | Matplotlib | Power BI | Tableau | Excel
 
 ### Machine Learning
-Scikit-Learn | TensorFlow | Machine Learning Fundamentals
+Scikit-Learn | Machine Learning Fundamentals
 
 ### Herramientas
 Git | GitHub | VS Code | Jupyter Notebook
