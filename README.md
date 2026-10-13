@@ -1,4 +1,4 @@
-# ¡Hola! :) Soy Rodrigo,
+# ¡Hola! Soy Rodrigo
 Estudiante de ingeniería de Sistemas (8.º ciclo)
 
 ##  Stack
