@@ -1,4 +1,4 @@
-<img width="4032" height="648" alt="image" src="https://github.com/user-attachments/assets/96a9abf1-ffc7-432d-8dcf-8771ff8fda62" /># ¡Hola! Soy Rodrigo
+# ¡Hola! Soy Rodrigo
 Estudiante de ingeniería de Sistemas (8.º ciclo)
 
 ##  Stack
