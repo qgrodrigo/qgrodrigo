@@ -20,22 +20,14 @@ Git | GitHub | VS Code | Jupyter Notebook
 
 ## 📊 Estadísticas
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=qgrodrigo&show_icons=true&theme=tokyonight" />
+<p align="left">
+  <img height="180em" src="https://streak-stats.demolab.com?user=qgrodrigo&theme=tokyonight" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qgrodrigo&layout=compact&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=qgrodrigo&theme=tokyonight" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=qgrodrigo&theme=tokyo-night" />
-</p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=qgrodrigo&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+
 
 ## 📫 Contacto
 
