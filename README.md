@@ -13,7 +13,7 @@ Springboot | Spring security | FastAPI
 Pandas | NumPy | Matplotlib | Power BI | Tableau | Excel
 
 ### Machine Learning
-Scikit-Learn | Machine Learning Fundamentals
+Machine Learning Fundamentals
 
 ### Herramientas
 Git | GitHub | VS Code | Jupyter Notebook
