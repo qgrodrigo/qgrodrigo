@@ -1,24 +1,4 @@
-# ¡Hola! Soy Rodrigo
-Estudiante de ingeniería de Sistemas (8.º ciclo)
-
-##  Stack
-
-### Lenguajes
-Python | SQL | JavaScript | Java
-
-### Software
-Springboot | Spring security | FastAPI 
-
-### Data Analytics
-Pandas | NumPy | Matplotlib | Power BI | Tableau | Excel
-
-### Machine Learning
-Machine Learning Fundamentals
-
-### Herramientas
-Git | GitHub | VS Code | Jupyter Notebook
-
-## 📊 Estadísticas
+## Stats
 
 <p align="left">
   <img height="180em" src="https://streak-stats.demolab.com?user=qgrodrigo&theme=tokyonight" />
@@ -29,7 +9,6 @@ Git | GitHub | VS Code | Jupyter Notebook
 
 
 
-## 📫 Contacto
+## Contact
 
-- LinkedIn: linkedin.com/in/qgrodrigo
 - Email: rodrigo.quispe.gil@gmail.com
